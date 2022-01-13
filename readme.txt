@@ -1,9 +1,9 @@
-Hoja de trabajo "M06_03_FT_01 - Objectes del Sistema"
+Hoja de trabajo "M06_06_FT_01 - Elements del DOM"
 
-	- El primer y único ejercicio está compuesto por 3 botones de comprobación:
-		1. El primer botón al pulsarlo lo que hace es mostrar un prompt para que introduzcas tu nombre, si lo introduces se hace un callback sin nombre
-		y con parámetros para mostrar tu nombre en un párrafo y si no introduces tu nombre se muestra otro mensaje.
-		2. El segundo botón al pulsarlo lo que hace es mostrar un prompt para que introduzcas tu edad, si lo introduces se hace un callback con nombre y con parámetros
-		para comprobar y mostraar si eres mayor o menos de edad, y si no introduces tu edad se muestra otro mensaje.
-		3. El tercer botón al pulsarlo lo que hace es mostrar un confirm en el que si aceptas se hace un callback con nombre y sin parámetros y se muestra la fecha de hoy, 
-		y si no aceptar se muestra otro mensaje.
+	- El primer ejercicio muestra ejemplos de DOM Element y ejemplos de DOM Events. De DOM Events en el JavaScript podemos ver un ejemplo del evento onload, más abajo un addEventListener, un evento onchange, un evento onmouseover, un evento onmouseout, un evento onmouseup, un evento onmousedown y un evento onclick. De DOM Element podemos ver un getElementByTagName, un querySelector, un getElementById, un querySelectorAll, un createElement, un appendChild y un setAttribute.
+
+	- El segundo ejercicio muestra un ejemplo con DOM Element, DOM Style, DOM Events, DOM Document. Es el mismo ejercicio que el anterior pero le añadimos un font, una animation y un URL.
+
+	- El tercer ejercicio muestra al principio una tabla con un pequeño resumen de querySelector y querySelectorAll. El objetivo es mostrar como añadimos, modificamos y borramos elementos. Tenemos una lista que es un menú de restaurante sobre el cual vamos jugando con los selectores en el CSS dando diferentes estilos y en el JavaScript añadimos funciones para añadir, modificar o borrar elementos. Por último y no menos importante, usamos atributos personalizados.
+
+	- El cuarto ejercicio muestra una lista sobre la cual hemos ido haciendo pruebas y trabajando con atributos personalizados y selectores.
